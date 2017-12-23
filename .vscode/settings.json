@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.showAbbreviationSuggestions": false,
+    "eslint.enable": true,
+    "jshint.enable": false
+}
